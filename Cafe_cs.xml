@@ -161,158 +161,158 @@ Jestli ho uskladníš, zbylé porce zmizí!"  />
 			<text id="xp" name="XP"  />
 		</commons>
 		<cookstep>
-			<text id="cookstep_bananasplit1" name="Chladnutí zmrzliny"  />
-			<text id="cookstep_bananasplit2" name="Krájení banánů"  />
-			<text id="cookstep_blackforestcherrycake1" name="Smíchání přísad"  />
-			<text id="cookstep_blackforestcherrycake2" name="Pečení dortu"  />
-			<text id="cookstep_cheeseburger1" name="Opékání mletého masa"  />
-			<text id="cookstep_cheeseburger2" name="Aranžování burgeru"  />
-			<text id="cookstep_cheesedish1" name="Chystání sýra"  />
-			<text id="cookstep_cheesedish2" name="Strouhání sýra"  />
-			<text id="cookstep_cheesefondue1" name="Pečení chlebu"  />
-			<text id="cookstep_cheesefondue2" name="Ohřívání sýra"  />
-			<text id="cookstep_cherriecake1" name="Smíchání přísad"  />
-			<text id="cookstep_cherriecake2" name="Pečení dortu"  />
-			<text id="cookstep_cherrycompote1" name="Vaření třešní"  />
-			<text id="cookstep_cherrycompote2" name="Chladnutí pěny"  />
-			<text id="cookstep_chickenburger1" name="Smažení kuřete"  />
-			<text id="cookstep_chickenburger2" name="Aranžování burgeru"  />
-			<text id="cookstep_chickensalad1" name="Opékání kuřete"  />
-			<text id="cookstep_chickensalad2" name="Připravování salátu"  />
-			<text id="cookstep_chickensoup1" name="Opékání slaniny"  />
-			<text id="cookstep_chickensoup2" name="Vaření polévky"  />
-			<text id="cookstep_chiliconcarne1" name="Opékání mletého masa"  />
-			<text id="cookstep_chiliconcarne2" name="Vaření chilli"  />
-			<text id="cookstep_chocmousse1" name="Smíchání přísad"  />
-			<text id="cookstep_chocmousse2" name="Chladnutí pěnu"  />
-			<text id="cookstep_chocolatecake1" name="Smíchání přísad"  />
-			<text id="cookstep_chocolatecake2" name="Pečení"  />
-			<text id="cookstep_chocolatecheesecake1" name="Rozpouštění čokolády"  />
-			<text id="cookstep_chocolatecheesecake2" name="Pečení dortu"  />
-			<text id="cookstep_chocolatefondue1" name="Rozpouštění čokolády"  />
-			<text id="cookstep_chocolatefondue2" name="Přidávání smetany"  />
-			<text id="cookstep_christmasturkey1" name="Dušení zeleniny"  />
-			<text id="cookstep_christmasturkey2" name="Pečení krocana"  />
-			<text id="cookstep_cookieplate1" name="Vykrajování těsta"  />
-			<text id="cookstep_cookieplate2" name="Pečení sušenek"  />
-			<text id="cookstep_cornonthecob1" name="Vaření kukuřice"  />
-			<text id="cookstep_cornonthecob2" name="Připravování salátu"  />
-			<text id="cookstep_curry1" name="Opékání přísad"  />
-			<text id="cookstep_curry2" name="Přidávání kokosového ořechu"  />
-			<text id="cookstep_duckalorange1" name="Plnění kachny"  />
-			<text id="cookstep_duckalorange2" name="Pečení kachny"  />
-			<text id="cookstep_easterdish1" name="Rozpouštění čokolády"  />
-			<text id="cookstep_easterdish2" name="Vaření vejcí"  />
-			<text id="cookstep_englishbreakfast1" name="Vaření fazolí"  />
-			<text id="cookstep_englishbreakfast2" name="Opekání párků"  />
-			<text id="cookstep_fishandchips1" name="Fritovat"  />
-			<text id="cookstep_fishandchips2" name="Šťouchat hrách"  />
-			<text id="cookstep_friedpotatoes1" name="Vařit brambory"  />
-			<text id="cookstep_friedpotatoes2" name="Pečení brambor"  />
-			<text id="cookstep_fruitpudding1" name="Nechat těsto odležet"  />
-			<text id="cookstep_fruitpudding2" name="Pečení"  />
-			<text id="cookstep_fruitsalad1" name="Krájení ovoce"  />
-			<text id="cookstep_fruitsalad2" name="Přidání zálivky"  />
-			<text id="cookstep_greensalad1" name="Míchání zálivky"  />
-			<text id="cookstep_greensalad2" name="Marinování salátu"  />
-			<text id="cookstep_gumbo1" name="Dušení cibule"  />
-			<text id="cookstep_gumbo2" name="Přidávání rýže"  />
-			<text id="cookstep_hamburger1" name="Opékání burgeru"  />
-			<text id="cookstep_hamburger2" name="Chystání burgeru"  />
-			<text id="cookstep_hotcherrywaffles1" name="Vaření třešní"  />
-			<text id="cookstep_hotcherrywaffles2" name="Pečení vaflí"  />
-			<text id="cookstep_jamspongepudding1" name="Smíchání přísad"  />
-			<text id="cookstep_jamspongepudding2" name="Pečení"  />
-			<text id="cookstep_lasagne1" name="Opékání mletého masa"  />
-			<text id="cookstep_lasagne2" name="Pečení lasagní"  />
-			<text id="cookstep_macncheese1" name="Plnění kastrolu"  />
-			<text id="cookstep_macncheese2" name="Pečení"  />
-			<text id="cookstep_maplepancakes1" name="Mísení těsta"  />
-			<text id="cookstep_maplepancakes2" name="Pečení lívanců"  />
-			<text id="cookstep_marblecake1" name="Plnění formy"  />
-			<text id="cookstep_marblecake2" name="Pečení"  />
-			<text id="cookstep_mexicansalad1" name="Vaření fazolí"  />
-			<text id="cookstep_mexicansalad2" name="Smíchání přísad"  />
-			<text id="cookstep_minestrone1" name="Dušení zeleniny"  />
-			<text id="cookstep_minestrone2" name="Přidávání nudlí"  />
-			<text id="cookstep_mixedsalad1" name="Míchání zálivky"  />
-			<text id="cookstep_mixedsalad2" name="Marinování salátu"  />
-			<text id="cookstep_nasigoreng1" name="Vaření kuřete"  />
-			<text id="cookstep_nasigoreng2" name="Dušení zeleniny"  />
-			<text id="cookstep_newyorkcheesecake1" name="Mixování náplně"  />
-			<text id="cookstep_newyorkcheesecake2" name="Pečení dortu"  />
-			<text id="cookstep_noodlesalad1" name="Míchání majonézy"  />
-			<text id="cookstep_noodlesalad2" name="Smíchání přísad"  />
-			<text id="cookstep_omelette1" name="Kořenění vejcí"  />
-			<text id="cookstep_omelette2" name="Míchání vajec"  />
-			<text id="cookstep_onionsoup1" name="Dušení cibule"  />
-			<text id="cookstep_onionsoup2" name="Zapékání sýru"  />
-			<text id="cookstep_peasoup1" name="Dušení cibule"  />
-			<text id="cookstep_peasoup2" name="Vaření polévky"  />
-			<text id="cookstep_pizza1" name="Obložení pizzy"  />
-			<text id="cookstep_pizza2" name="Pečení pizzy"  />
-			<text id="cookstep_pizzahawaii1" name="Obložení pizzy"  />
-			<text id="cookstep_pizzahawaii2" name="Pečení pizzy"  />
-			<text id="cookstep_pizzatonno1" name="Obložení pizzy"  />
-			<text id="cookstep_pizzatonno2" name="Pečení pizzy"  />
-			<text id="cookstep_porkroastwithcrackling1" name="Kořenění masa"  />
-			<text id="cookstep_porkroastwithcrackling2" name="Opékání"  />
-			<text id="cookstep_potatosalad1" name="Vaření brambor"  />
-			<text id="cookstep_potatosalad2" name="Míchání majonézy"  />
-			<text id="cookstep_redberrycompote1" name="Zavaření ovoce"  />
-			<text id="cookstep_redberrycompote2" name="Slazení"  />
-			<text id="cookstep_ricepudding1" name="Vaření mléčné rýže"  />
-			<text id="cookstep_ricepudding2" name="Vaření jablečné kaše"  />
-			<text id="cookstep_roastchicken1" name="Plnění kuřete"  />
-			<text id="cookstep_roastchicken2" name="Opékání"  />
-			<text id="cookstep_sandwich1" name="Mazání chleba"  />í
-			<text id="cookstep_sandwich2" name="Plnění toastu"  />
-			<text id="cookstep_scouse1" name="Opékání masa"  />
-			<text id="cookstep_scouse2" name="Přidávání červené řepy"  />
-			<text id="cookstep_spagetti1" name="Opékání mletého masa"  />
-			<text id="cookstep_spagetti2" name="Vaření omáčky"  />
-			<text id="cookstep_spareribs1" name="Nakládání masa"  />
-			<text id="cookstep_spareribs2" name="Opékání masa"  />
-			<text id="cookstep_steak1" name="Opékání masa"  />
-			<text id="cookstep_steak2" name="Připravování salátu"  />
-			<text id="cookstep_steakkidneypie1" name="Vaření nádivky"  />
-			<text id="cookstep_steakkidneypie2" name="Pečení"  />
-			<text id="cookstep_stew1" name="Opékání masa"  />
-			<text id="cookstep_stew2" name="Dušení"  />
-			<text id="cookstep_stewedrhubarb1" name="Vaření rebarbory"  />
-			<text id="cookstep_stewedrhubarb2" name="Nechat vychladnout"  />
-			<text id="cookstep_strawberrycake1" name="Pečení dortového korpusu"  />
-			<text id="cookstep_strawberrycake2" name="Dekorování dortu"  />
-			<text id="cookstep_strawberrymousse1" name="Rozmačkávání jahod"  />
-			<text id="cookstep_strawberrymousse2" name="Šlehání pěny"  />
-			<text id="cookstep_stuffedpeppers1" name="Plnění paprik"  />
-			<text id="cookstep_stuffedpeppers2" name="Pečení paprik"  />
-			<text id="cookstep_sundayfeast1" name="Nakládání masa"  />
-			<text id="cookstep_sundayfeast2" name="Pečení masa"  />
-			<text id="cookstep_sushi1" name="Rozložení přísad"  />
-			<text id="cookstep_sushi2" name="Rolování"  />
-			<text id="cookstep_toadinhole1" name="Mísení těsta"  />
-			<text id="cookstep_toadinhole2" name="Pečení"  />
-			<text id="cookstep_toast1" name="Plnění toastu"  />
-			<text id="cookstep_toast2" name="Opékání toastu"  />
-			<text id="cookstep_tofuburger1" name="Opékání tofu burgeru"  />
-			<text id="cookstep_tofuburger2" name="Aranžování burgeru"  />
-			<text id="cookstep_tomatosoup1" name="Opékání cibule"  />
-			<text id="cookstep_tomatosoup2" name="Vaření rajčat"  />
-			<text id="cookstep_trifle1" name="Vaření pudinku"  />
-			<text id="cookstep_trifle2" name="Vrstvení trifle"  />
-			<text id="cookstep_veganstirfry1" name="Dušení zeleniny"  />
-			<text id="cookstep_veganstirfry2" name="Vaření rýže"  />
-			<text id="cookstep_vegetablesoup1" name="Opékání cibule"  />
-			<text id="cookstep_vegetablesoup2" name="Vaření polévky"  />
-			<text id="cookstep_veggiecurry1" name="Vaření rýže"  />
-			<text id="cookstep_veggiecurry2" name="Dušení kari"  />
-			<text id="cookstep_veggielasagne1" name="Vrstvení lasagní"  />
-			<text id="cookstep_veggielasagne2" name="Pečení lasagní"  />
-			<text id="cookstep_whitechoccheesecake1" name="Míchání přísad"  />
-			<text id="cookstep_whitechoccheesecake2" name="Pečení dortu"  />
-			<text id="cookstep_whitechocmousse1" name="Rozpouštění čokolády"  />
-			<text id="cookstep_whitechocmousse2" name="Chladnutí pěny"  />
+			<text id="cookstep_bananasplit1" name="chladnutí zmrzliny"  />
+			<text id="cookstep_bananasplit2" name="krájení banánů"  />
+			<text id="cookstep_blackforestcherrycake1" name="smíchání přísad"  />
+			<text id="cookstep_blackforestcherrycake2" name="pečení dortu"  />
+			<text id="cookstep_cheeseburger1" name="opékání mletého masa"  />
+			<text id="cookstep_cheeseburger2" name="aranžování burgeru"  />
+			<text id="cookstep_cheesedish1" name="chystání sýra"  />
+			<text id="cookstep_cheesedish2" name="strouhání sýra"  />
+			<text id="cookstep_cheesefondue1" name="pečení chlebu"  />
+			<text id="cookstep_cheesefondue2" name="ohřívání sýra"  />
+			<text id="cookstep_cherriecake1" name="smíchání přísad"  />
+			<text id="cookstep_cherriecake2" name="pečení dortu"  />
+			<text id="cookstep_cherrycompote1" name="vaření třešní"  />
+			<text id="cookstep_cherrycompote2" name="chladnutí pěny"  />
+			<text id="cookstep_chickenburger1" name="smažení kuřete"  />
+			<text id="cookstep_chickenburger2" name="aranžování burgeru"  />
+			<text id="cookstep_chickensalad1" name="opékání kuřete"  />
+			<text id="cookstep_chickensalad2" name="připravování salátu"  />
+			<text id="cookstep_chickensoup1" name="opékání slaniny"  />
+			<text id="cookstep_chickensoup2" name="vaření polévky"  />
+			<text id="cookstep_chiliconcarne1" name="opékání mletého masa"  />
+			<text id="cookstep_chiliconcarne2" name="vaření chilli"  />
+			<text id="cookstep_chocmousse1" name="smíchání přísad"  />
+			<text id="cookstep_chocmousse2" name="chladnutí pěnu"  />
+			<text id="cookstep_chocolatecake1" name="smíchání přísad"  />
+			<text id="cookstep_chocolatecake2" name="pečení"  />
+			<text id="cookstep_chocolatecheesecake1" name="rozpouštění čokolády"  />
+			<text id="cookstep_chocolatecheesecake2" name="pečení dortu"  />
+			<text id="cookstep_chocolatefondue1" name="rozpouštění čokolády"  />
+			<text id="cookstep_chocolatefondue2" name="přidávání smetany"  />
+			<text id="cookstep_christmasturkey1" name="dušení zeleniny"  />
+			<text id="cookstep_christmasturkey2" name="pečení krocana"  />
+			<text id="cookstep_cookieplate1" name="vykrajování těsta"  />
+			<text id="cookstep_cookieplate2" name="pečení sušenek"  />
+			<text id="cookstep_cornonthecob1" name="vaření kukuřice"  />
+			<text id="cookstep_cornonthecob2" name="připravování salátu"  />
+			<text id="cookstep_curry1" name="opékání přísad"  />
+			<text id="cookstep_curry2" name="přidávání kokosového ořechu"  />
+			<text id="cookstep_duckalorange1" name="plnění kachny"  />
+			<text id="cookstep_duckalorange2" name="pečení kachny"  />
+			<text id="cookstep_easterdish1" name="rozpouštění čokolády"  />
+			<text id="cookstep_easterdish2" name="vaření vejcí"  />
+			<text id="cookstep_englishbreakfast1" name="vaření fazolí"  />
+			<text id="cookstep_englishbreakfast2" name="opekání párků"  />
+			<text id="cookstep_fishandchips1" name="fritovat"  />
+			<text id="cookstep_fishandchips2" name="šťouchat hrách"  />
+			<text id="cookstep_friedpotatoes1" name="vařit brambory"  />
+			<text id="cookstep_friedpotatoes2" name="pečení brambor"  />
+			<text id="cookstep_fruitpudding1" name="nechat těsto odležet"  />
+			<text id="cookstep_fruitpudding2" name="pečení"  />
+			<text id="cookstep_fruitsalad1" name="krájení ovoce"  />
+			<text id="cookstep_fruitsalad2" name="přidání zálivky"  />
+			<text id="cookstep_greensalad1" name="míchání zálivky"  />
+			<text id="cookstep_greensalad2" name="marinování salátu"  />
+			<text id="cookstep_gumbo1" name="dušení cibule"  />
+			<text id="cookstep_gumbo2" name="přidávání rýže"  />
+			<text id="cookstep_hamburger1" name="opékání burgeru"  />
+			<text id="cookstep_hamburger2" name="chystání burgeru"  />
+			<text id="cookstep_hotcherrywaffles1" name="vaření třešní"  />
+			<text id="cookstep_hotcherrywaffles2" name="pečení vaflí"  />
+			<text id="cookstep_jamspongepudding1" name="smíchání přísad"  />
+			<text id="cookstep_jamspongepudding2" name="pečení"  />
+			<text id="cookstep_lasagne1" name="opékání mletého masa"  />
+			<text id="cookstep_lasagne2" name="pečení lasagní"  />
+			<text id="cookstep_macncheese1" name="plnění kastrolu"  />
+			<text id="cookstep_macncheese2" name="pečení"  />
+			<text id="cookstep_maplepancakes1" name="mísení těsta"  />
+			<text id="cookstep_maplepancakes2" name="pečení lívanců"  />
+			<text id="cookstep_marblecake1" name="plnění formy"  />
+			<text id="cookstep_marblecake2" name="pečení"  />
+			<text id="cookstep_mexicansalad1" name="vaření fazolí"  />
+			<text id="cookstep_mexicansalad2" name="smíchání přísad"  />
+			<text id="cookstep_minestrone1" name="dušení zeleniny"  />
+			<text id="cookstep_minestrone2" name="přidávání nudlí"  />
+			<text id="cookstep_mixedsalad1" name="míchání zálivky"  />
+			<text id="cookstep_mixedsalad2" name="marinování salátu"  />
+			<text id="cookstep_nasigoreng1" name="vaření kuřete"  />
+			<text id="cookstep_nasigoreng2" name="dušení zeleniny"  />
+			<text id="cookstep_newyorkcheesecake1" name="mixování náplně"  />
+			<text id="cookstep_newyorkcheesecake2" name="pečení dortu"  />
+			<text id="cookstep_noodlesalad1" name="míchání majonézy"  />
+			<text id="cookstep_noodlesalad2" name="smíchání přísad"  />
+			<text id="cookstep_omelette1" name="kořenění vejcí"  />
+			<text id="cookstep_omelette2" name="míchání vajec"  />
+			<text id="cookstep_onionsoup1" name="dušení cibule"  />
+			<text id="cookstep_onionsoup2" name="zapékání sýru"  />
+			<text id="cookstep_peasoup1" name="dušení cibule"  />
+			<text id="cookstep_peasoup2" name="vaření polévky"  />
+			<text id="cookstep_pizza1" name="obložení pizzy"  />
+			<text id="cookstep_pizza2" name="pečení pizzy"  />
+			<text id="cookstep_pizzahawaii1" name="obložení pizzy"  />
+			<text id="cookstep_pizzahawaii2" name="ppečení pizzy"  />
+			<text id="cookstep_pizzatonno1" name="obložení pizzy"  />
+			<text id="cookstep_pizzatonno2" name="pečení pizzy"  />
+			<text id="cookstep_porkroastwithcrackling1" name="kořenění masa"  />
+			<text id="cookstep_porkroastwithcrackling2" name="opékání"  />
+			<text id="cookstep_potatosalad1" name="vaření brambor"  />
+			<text id="cookstep_potatosalad2" name="míchání majonézy"  />
+			<text id="cookstep_redberrycompote1" name="zavaření ovoce"  />
+			<text id="cookstep_redberrycompote2" name="slazení"  />
+			<text id="cookstep_ricepudding1" name="vaření mléčné rýže"  />
+			<text id="cookstep_ricepudding2" name="vaření jablečné kaše"  />
+			<text id="cookstep_roastchicken1" name="plnění kuřete"  />
+			<text id="cookstep_roastchicken2" name="opékání"  />
+			<text id="cookstep_sandwich1" name="mazání chleba"  />í
+			<text id="cookstep_sandwich2" name="plnění toastu"  />
+			<text id="cookstep_scouse1" name="opékání masa"  />
+			<text id="cookstep_scouse2" name="přidávání červené řepy"  />
+			<text id="cookstep_spagetti1" name="opékání mletého masa"  />
+			<text id="cookstep_spagetti2" name="vaření omáčky"  />
+			<text id="cookstep_spareribs1" name="nakládání masa"  />
+			<text id="cookstep_spareribs2" name="opékání masa"  />
+			<text id="cookstep_steak1" name="opékání masa"  />
+			<text id="cookstep_steak2" name="připravování salátu"  />
+			<text id="cookstep_steakkidneypie1" name="vaření nádivky"  />
+			<text id="cookstep_steakkidneypie2" name="pečení"  />
+			<text id="cookstep_stew1" name="opékání masa"  />
+			<text id="cookstep_stew2" name="dušení"  />
+			<text id="cookstep_stewedrhubarb1" name="vaření rebarbory"  />
+			<text id="cookstep_stewedrhubarb2" name="nechat vychladnout"  />
+			<text id="cookstep_strawberrycake1" name="pečení dortového korpusu"  />
+			<text id="cookstep_strawberrycake2" name="dekorování dortu"  />
+			<text id="cookstep_strawberrymousse1" name="rozmačkávání jahod"  />
+			<text id="cookstep_strawberrymousse2" name="šlehání pěny"  />
+			<text id="cookstep_stuffedpeppers1" name="plnění paprik"  />
+			<text id="cookstep_stuffedpeppers2" name="pečení paprik"  />
+			<text id="cookstep_sundayfeast1" name="nakládání masa"  />
+			<text id="cookstep_sundayfeast2" name="pečení masa"  />
+			<text id="cookstep_sushi1" name="rozložení přísad"  />
+			<text id="cookstep_sushi2" name="rolování"  />
+			<text id="cookstep_toadinhole1" name="mísení těsta"  />
+			<text id="cookstep_toadinhole2" name="pečení"  />
+			<text id="cookstep_toast1" name="plnění toastu"  />
+			<text id="cookstep_toast2" name="opékání toastu"  />
+			<text id="cookstep_tofuburger1" name="opékání tofu burgeru"  />
+			<text id="cookstep_tofuburger2" name="aranžování burgeru"  />
+			<text id="cookstep_tomatosoup1" name="opékání cibule"  />
+			<text id="cookstep_tomatosoup2" name="vaření rajčat"  />
+			<text id="cookstep_trifle1" name="vaření pudinku"  />
+			<text id="cookstep_trifle2" name="vrstvení trifle"  />
+			<text id="cookstep_veganstirfry1" name="dušení zeleniny"  />
+			<text id="cookstep_veganstirfry2" name="vaření rýže"  />
+			<text id="cookstep_vegetablesoup1" name="opékání cibule"  />
+			<text id="cookstep_vegetablesoup2" name="vaření polévky"  />
+			<text id="cookstep_veggiecurry1" name="vaření rýže"  />
+			<text id="cookstep_veggiecurry2" name="dušení kari"  />
+			<text id="cookstep_veggielasagne1" name="vrstvení lasagní"  />
+			<text id="cookstep_veggielasagne2" name="pečení lasagní"  />
+			<text id="cookstep_whitechoccheesecake1" name="míchání přísad"  />
+			<text id="cookstep_whitechoccheesecake2" name="pečení dortu"  />
+			<text id="cookstep_whitechocmousse1" name="rozpouštění čokolády"  />
+			<text id="cookstep_whitechocmousse2" name="chladnutí pěny"  />
 		</cookstep>
 		<coopmission>
 			<text id="coop_desc_long_1" name="Pořádáme kurz vaření, kde se naučíš připravit ještě lepší jídlo. Chceš se zapojit?"  />
@@ -851,13 +851,13 @@ Dostupné jenom omezenou dobu!"  />
 			<text id="ingredient_apple" name="Jablka"  />
 			<text id="ingredient_bacon" name="Slanina"  />
 			<text id="ingredient_bakingmix" name="Směs na pečení"  />
-			<text id="ingredient_ballpepper" name="Paprika"  />
+			<text id="ingredient_ballpepper" name="Papriky"  />
 			<text id="ingredient_banana" name="Banány"  />
 			<text id="ingredient_basil" name="Bazalka"  />
 			<text id="ingredient_beans" name="Fazole"  />
 			<text id="ingredient_beetroot" name="Červená řepa"  />
 			<text id="ingredient_butter" name="Máslo"  />
-			<text id="ingredient_carrots" name="Mrkev"  />
+			<text id="ingredient_carrots" name="Mrkve"  />
 			<text id="ingredient_cheese" name="Sýr"  />
 			<text id="ingredient_cherries" name="Třešně"  />
 			<text id="ingredient_chicken" name="Kuře"  />
@@ -943,362 +943,362 @@ Dostupné jenom omezenou dobu!"  />
 			<text id="panelwin_social_writeable" name="Jenom registrovaní hráči od úrovně 1 mohou používat chat."  />
 		</panels>
 		<preparestep>
-			<text id="preparestep_bananasplit_banana" name="Oloupat banány"  />
-			<text id="preparestep_bananasplit_chocolate" name="Nasekat čokoládu"  />
-			<text id="preparestep_bananasplit_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_bananasplit_milk" name="Odměřit mléko"  />
-			<text id="preparestep_bananasplit_sugar" name="Zvážit cukr"  />
-			<text id="preparestep_blackforestcherrycake_chocolate" name="Nastrouhat čokoládu"  />
-			<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Očistit třešně"  />
-			<text id="preparestep_blackforestcherrycake_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_blackforestcherrycake_flour" name="Prosít mouku"  />
-			<text id="preparestep_cheeseburger_cheese" name="Nakrájet sýr"  />
-			<text id="preparestep_cheeseburger_flour" name="Prosít mouku"  />
-			<text id="preparestep_cheeseburger_mincemeat" name="Okořenit mleté maso"  />
-			<text id="preparestep_cheeseburger_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_cheesedish_cheese" name="Rozkrojit sýr"  />
-			<text id="preparestep_cheesefondue_cheese" name="Rozpustit sýr"  />
-			<text id="preparestep_cheesefondue_flour" name="Prosít mouku"  />
-			<text id="preparestep_cheesefondue_garlic" name="Rozetřet česnek"  />
-			<text id="preparestep_cherriecake_cherries" name="Uvařit třešně"  />
-			<text id="preparestep_cherriecake_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_cherriecake_flour" name="Prosít mouku"  />
-			<text id="preparestep_cherriecake_sugar" name="Zvážit cukr"  />
-			<text id="preparestep_cherrycompote_cherries" name="Odpeckovat třešně"  />
-			<text id="preparestep_cherrycompote_sugar" name="Zkaramelizovat cukr"  />
-			<text id="preparestep_chickenburger_chicken" name="Porcovat kuře"  />
-			<text id="preparestep_chickenburger_cucumber" name="Nakrájet okurku"  />
-			<text id="preparestep_chickenburger_flour" name="Prosít mouku"  />
-			<text id="preparestep_chickenburger_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_chickensalad_chicken" name="Připravit kuře"  />
-			<text id="preparestep_chickensalad_lettuce" name="Umýt salát"  />
-			<text id="preparestep_chickensalad_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_chickensalad_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_chickensoup_bacon" name="Krájet slaninu"  />
-			<text id="preparestep_chickensoup_chicken" name="Porcovat kuře"  />
-			<text id="preparestep_chickensoup_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_chickensoup_pasta" name="Odvážit nudle"  />
-			<text id="preparestep_chiliconcarne_bacon" name="Nakrájet slaninu"  />
-			<text id="preparestep_chiliconcarne_beans" name="Namočit fazole"  />
-			<text id="preparestep_chiliconcarne_mincemeat" name="Okořenit mleté maso"  />
-			<text id="preparestep_chiliconcarne_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_chiliconcarne_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_chocmousse_chocolate" name="Rozpustit čokoládu"  />
-			<text id="preparestep_chocmousse_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_chocmousse_eggs" name="Oddělit žloutek od bílku"  />
-			<text id="preparestep_chocolatecake_chocolate" name="Rozpustit čokoládu"  />
-			<text id="preparestep_chocolatecake_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_chocolatecake_eggs" name="Oddělit žloutek od bílku"  />
-			<text id="preparestep_chocolatecake_flour" name="Prosít mouku"  />
-			<text id="preparestep_chocolatecheesecake_chocolate" name="Nasekat čokoládu"  />
-			<text id="preparestep_chocolatecheesecake_cookies" name="Rozdrobit sušenky"  />
-			<text id="preparestep_chocolatecheesecake_milk" name="Odměřit mléko"  />
-			<text id="preparestep_chocolatecheesecake_quark" name="Rozmíchat tvaroh"  />
-			<text id="preparestep_chocolatefondue_chocolate" name="Ochutnat čokoládu"  />
-			<text id="preparestep_chocolatefondue_cream" name="Odměřit smetanu"  />
-			<text id="preparestep_chocolatefondue_strawberry" name="Očistit jahody"  />
-			<text id="preparestep_christmasturkey_turkeymix" name="Připravit krocana"  />
-			<text id="preparestep_christmasturkey_vegiemix" name="Rozmrazit zeleninu"  />
-			<text id="preparestep_cookieplate_butter" name="Rozpustit máslo"  />
-			<text id="preparestep_cookieplate_chocolate" name="Nasekat čokoládu"  />
-			<text id="preparestep_cookieplate_flour" name="Prosít mouku"  />
-			<text id="preparestep_cookieplate_sugar" name="Zkaramelizovat cukr"  />
-			<text id="preparestep_cornonthecob_butter" name="Nakrájet máslo na plátky"  />
-			<text id="preparestep_cornonthecob_lettuce" name="Umýt salát"  />
-			<text id="preparestep_cornonthecob_sweetcorn" name="Očistit kukuřici"  />
-			<text id="preparestep_curry_ballpepper" name="Nakrájet papriku"  />
-			<text id="preparestep_curry_coconut" name="Rozlousknout kokosový ořech"  />
-			<text id="preparestep_curry_curryspice" name="Odměřit kari"  />
-			<text id="preparestep_curry_meat" name="Nakrájet maso"  />
-			<text id="preparestep_curry_peas" name="Uvařit hrách"  />
-			<text id="preparestep_duckalorange_butter" name="Rozpustit máslo"  />
-			<text id="preparestep_duckalorange_duck" name="Připravit kachnu"  />
-			<text id="preparestep_duckalorange_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_duckalorange_orange" name="Oloupat pomeranče"  />
-			<text id="preparestep_easterdish_chocolate" name="Ochutnat čokoládu"  />
-			<text id="preparestep_easterdish_eggs" name="Spočítat vejce"  />
-			<text id="preparestep_englishbreakfast_beans" name="Uvařit fazole"  />
-			<text id="preparestep_englishbreakfast_eggs" name="Rozbít vajíčka"  />
-			<text id="preparestep_englishbreakfast_flour" name="Prosít mouku"  />
-			<text id="preparestep_englishbreakfast_sausages" name="Spočítat párky"  />
-			<text id="preparestep_fishandchips_fish" name="Připravit rybu"  />
-			<text id="preparestep_fishandchips_flour" name="Prosít mouku"  />
-			<text id="preparestep_fishandchips_oil" name="Rozpálit olej"  />
-			<text id="preparestep_fishandchips_peas" name="Uvařit hrách"  />
-			<text id="preparestep_fishandchips_potato" name="Oloupat brambory"  />
-			<text id="preparestep_friedpotatoes_bacon" name="Opéct slaninu"  />
-			<text id="preparestep_friedpotatoes_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_friedpotatoes_potato" name="Oloupat brambory"  />
-			<text id="preparestep_fruitpudding_bakingmix" name="Namíchat směs"  />
-			<text id="preparestep_fruitpudding_spicemix" name="Odvážit koření"  />
-			<text id="preparestep_fruitsalad_apple" name="Oloupat jablka"  />
-			<text id="preparestep_fruitsalad_banana" name="Oloupat babány"  />
-			<text id="preparestep_fruitsalad_cherries" name="Odpeckovat třešně"  />
-			<text id="preparestep_fruitsalad_orange" name="Oloupat pomeranče"  />
-			<text id="preparestep_greensalad_lettuce" name="Umýt salát"  />
-			<text id="preparestep_greensalad_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_greensalad_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_gumbo_curryspice" name="Opéct kari"  />
-			<text id="preparestep_gumbo_fish" name="Nakrájet rybu"  />
-			<text id="preparestep_gumbo_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_gumbo_rice" name="Uvařit rýži"  />
-			<text id="preparestep_hamburger_flour" name="Prosít mouku"  />
-			<text id="preparestep_hamburger_mincemeat" name="Okořenit mleté maso"  />
-			<text id="preparestep_hamburger_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_hotcherrywaffles_cherries" name="Odpeckovat třešně"  />
-			<text id="preparestep_hotcherrywaffles_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_hotcherrywaffles_eggs" name="Oddělit žloutek od bílku"  />
-			<text id="preparestep_hotcherrywaffles_flour" name="Prosít mouku"  />
-			<text id="preparestep_hotcherrywaffles_milk" name="Ohřát mléko"  />
-			<text id="preparestep_jamspongepudding_flour" name="Prosít mouku"  />
-			<text id="preparestep_jamspongepudding_milk" name="Ohřát mléko"  />
-			<text id="preparestep_jamspongepudding_strawberry" name="Očistit jahody"  />
-			<text id="preparestep_jamspongepudding_sugar" name="Zkaramelizovat cukr"  />
-			<text id="preparestep_lasagne_cheese" name="Nastrouhat sýr"  />
-			<text id="preparestep_lasagne_mincemeat" name="Okořenit mleté maso"  />
-			<text id="preparestep_lasagne_pasta" name="Uvařit nudle"  />
-			<text id="preparestep_lasagne_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_macncheese_cheese" name="Nastrouhat sýr"  />
-			<text id="preparestep_macncheese_cream" name="Odměřit smetanu"  />
-			<text id="preparestep_macncheese_pasta" name="Uvařit nudle"  />
-			<text id="preparestep_maplepancakes_eggs" name="Oddělit žloutek od bílku"  />
-			<text id="preparestep_maplepancakes_flour" name="Prosít mouku"  />
-			<text id="preparestep_maplepancakes_maple" name="Zkusit javorový sirup"  />
-			<text id="preparestep_maplepancakes_milk" name="Odměřit mléko"  />
-			<text id="preparestep_marblecake_butter" name="Rozpustit máslo"  />
-			<text id="preparestep_marblecake_chocolate" name="Rozpustit čokoládu"  />
-			<text id="preparestep_marblecake_flour" name="Prosít mouku"  />
-			<text id="preparestep_marblecake_sugar" name="Zvážit cukr"  />
-			<text id="preparestep_mexicansalad_bacon" name="Opéct slaninu"  />
-			<text id="preparestep_mexicansalad_beans" name="Namočit fazole"  />
-			<text id="preparestep_mexicansalad_onion" name="Opéct cibuli"  />
-			<text id="preparestep_mexicansalad_sweetcorn" name="Uvařit kukuřici"  />
-			<text id="preparestep_minestrone_eggplant" name="Nakrájet lilek"  />
-			<text id="preparestep_minestrone_pasta" name="Uvařit nudle"  />
-			<text id="preparestep_minestrone_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_mixedsalad_lettuce" name="Umýt salát"  />
-			<text id="preparestep_mixedsalad_peas" name="Uvařit hrách"  />
-			<text id="preparestep_mixedsalad_sweetcorn" name="Uvařit kukuřici"  />
-			<text id="preparestep_mixedsalad_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_nasigoreng_chicken" name="Naporcovat kuře"  />
-			<text id="preparestep_nasigoreng_eggs" name="Uvařit vajíčka"  />
-			<text id="preparestep_nasigoreng_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_nasigoreng_pinapple" name="Nakrájet ananas"  />
-			<text id="preparestep_nasigoreng_rice" name="Uvařit rýži"  />
-			<text id="preparestep_newyorkcheesecake_cookies" name="Rozdrobit sušenky"  />
-			<text id="preparestep_newyorkcheesecake_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_newyorkcheesecake_quark" name="Míchat tvaroh"  />
-			<text id="preparestep_newyorkcheesecake_sugar" name="Odvážit cukr"  />
-			<text id="preparestep_noodlesalad_eggs" name="Oddělit žloutek od bílku"  />
-			<text id="preparestep_noodlesalad_oil" name="Vyšlehat olej"  />
-			<text id="preparestep_noodlesalad_pasta" name="Uvařit nudle"  />
-			<text id="preparestep_noodlesalad_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_omelette_eggs" name="Spočítat vejce"  />
-			<text id="preparestep_onionsoup_cheese" name="Nastrouhat sýr"  />
-			<text id="preparestep_onionsoup_garlic" name="Rozetřet česnek"  />
-			<text id="preparestep_onionsoup_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_peasoup_bacon" name="Opéct slaninu"  />
-			<text id="preparestep_peasoup_garlic" name="Rozetřet česnek"  />
-			<text id="preparestep_peasoup_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_peasoup_peas" name="Očistit hrách"  />
-			<text id="preparestep_pizzahawaii_bacon" name="Nakrájet slaninu"  />
-			<text id="preparestep_pizzahawaii_cheese" name="Nastrouhat sýr"  />
-			<text id="preparestep_pizzahawaii_flour" name="Prosít mouku"  />
-			<text id="preparestep_pizzahawaii_pinapple" name="Nakrájet ananas"  />
-			<text id="preparestep_pizzahawaii_tomato" name="Rozmačkat rajčata"  />
-			<text id="preparestep_pizzatonno_cheese" name="Nastrouhat sýr"  />
-			<text id="preparestep_pizzatonno_fish" name="Nakrájet rybu"  />
-			<text id="preparestep_pizzatonno_flour" name="Prosít mouku"  />
-			<text id="preparestep_pizzatonno_onion" name="Nakrájet cibuli"  />
-			<text id="preparestep_pizzatonno_tomato" name="Rozmačkat rajčata"  />
-			<text id="preparestep_pizza_cheese" name="Nastrouhat sýr"  />
-			<text id="preparestep_pizza_flour" name="Prosít mouku"  />
-			<text id="preparestep_pizza_tomato" name="Rozmačkat rajčata"  />
-			<text id="preparestep_porkroastwithcrackling_carrots" name="Oloupat mrkev"  />
-			<text id="preparestep_porkroastwithcrackling_garlic" name="Rozetřet česnek"  />
-			<text id="preparestep_porkroastwithcrackling_meat" name="Nakrájet maso"  />
-			<text id="preparestep_porkroastwithcrackling_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_potatosalad_cucumber" name="Rozkrojit okurky"  />
-			<text id="preparestep_potatosalad_oil" name="Vyšlehat olej"  />
-			<text id="preparestep_potatosalad_potato" name="Oloupat brambory"  />
-			<text id="preparestep_redberrycompote_cherries" name="Očistit třešně"  />
-			<text id="preparestep_redberrycompote_rhubarb" name="Očistit rebarboru"  />
-			<text id="preparestep_redberrycompote_strawberry" name="Očistit jahody"  />
-			<text id="preparestep_redberrycompote_sugar" name="Zkaramelizovat cukr"  />
-			<text id="preparestep_ricepudding_apple" name="Oloupat jablka"  />
-			<text id="preparestep_ricepudding_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_ricepudding_milk" name="Odměřit mléko"  />
-			<text id="preparestep_ricepudding_rice" name="Zvážit rýži"  />
-			<text id="preparestep_roastchicken_butter" name="Rozpustit máslo"  />
-			<text id="preparestep_roastchicken_chicken" name="Připravit kuře"  />
-			<text id="preparestep_roastchicken_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_sandwich_bacon" name="Krájet slaninu"  />
-			<text id="preparestep_sandwich_butter" name="Zvážit máslo"  />
-			<text id="preparestep_sandwich_cheese" name="Rozkrojit sýr"  />
-			<text id="preparestep_sandwich_flour" name="Prosít mouku"  />
-			<text id="preparestep_sandwich_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_scouse_beetroot" name="Nakrájet červenou řepu"  />
-			<text id="preparestep_scouse_cucumber" name="Nakládat okurky"  />
-			<text id="preparestep_scouse_eggs" name="Opéct vájíčka"  />
-			<text id="preparestep_scouse_meat" name="Nakrájet maso"  />
-			<text id="preparestep_spagetti_mincemeat" name="Okořenit mleté maso"  />
-			<text id="preparestep_spagetti_pasta" name="Uvařit špagety"  />
-			<text id="preparestep_spagetti_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_spareribs_meat" name="Nakrájet maso"  />
-			<text id="preparestep_spareribs_oil" name="Odměřit olej"  />
-			<text id="preparestep_spareribs_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_spareribs_tomato" name="Rozmačkat rajčata"  />
-			<text id="preparestep_steakkidneypie_flour" name="Prosít mouku"  />
-			<text id="preparestep_steakkidneypie_kidney" name="Nakrájet ledviny"  />
-			<text id="preparestep_steakkidneypie_meat" name="Nakrájet maso"  />
-			<text id="preparestep_steakkidneypie_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_steak_butter" name="Nakrájet máslo na plátky"  />
-			<text id="preparestep_steak_lettuce" name="Umýt salát"  />
-			<text id="preparestep_steak_meat" name="Nakrájet maso"  />
-			<text id="preparestep_steak_potato" name="Oloupat brambory"  />
-			<text id="preparestep_steak_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_stewedrhubarb_rhubarb" name="Nakrájet rebarboru"  />
-			<text id="preparestep_stewedrhubarb_sugar" name="Zkaramelizovat cukr"  />
-			<text id="preparestep_stew_meat" name="Nakrájet maso"  />
-			<text id="preparestep_stew_oil" name="Rozpálit olej"  />
-			<text id="preparestep_stew_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_strawberrycake_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_strawberrycake_flour" name="Prosít mouku"  />
-			<text id="preparestep_strawberrycake_strawberry" name="Očistit jahody"  />
-			<text id="preparestep_strawberrymousse_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_strawberrymousse_eggs" name="Oddělit žloutek od bílku"  />
-			<text id="preparestep_strawberrymousse_strawberry" name="Očistit jahody"  />
-			<text id="preparestep_strawberrymousse_sugar" name="Zvážit cukr"  />
-			<text id="preparestep_stuffedpeppers_ballpepper" name="Vydlabat papriku"  />
-			<text id="preparestep_stuffedpeppers_eggs" name="Rozbít vejce"  />
-			<text id="preparestep_stuffedpeppers_rice" name="Uvařit rýži"  />
-			<text id="preparestep_sundayfeast_carrots" name="Oloupat mrkev"  />
-			<text id="preparestep_sundayfeast_meat" name="Nakrájet maso"  />
-			<text id="preparestep_sundayfeast_peas" name="Uvařit hrách"  />
-			<text id="preparestep_sundayfeast_potato" name="Oloupat brambory"  />
-			<text id="preparestep_sushi_cucumber" name="Nakrájet okurku"  />
-			<text id="preparestep_sushi_fish" name="Nakrájet rybu"  />
-			<text id="preparestep_sushi_rice" name="Uvařit rýži"  />
-			<text id="preparestep_toadinhole_flour" name="Prosít mouku"  />
-			<text id="preparestep_toadinhole_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_toadinhole_sausages" name="Spočítat párky"  />
-			<text id="preparestep_toast_cheese" name="Nastrouhat sýr"  />
-			<text id="preparestep_toast_flour" name="Prosít mouku"  />
-			<text id="preparestep_toast_pinapple" name="Nakrájet ananas"  />
-			<text id="preparestep_tofuburger_flour" name="Prosít mouku"  />
-			<text id="preparestep_tofuburger_lettuce" name="Umýt salát"  />
-			<text id="preparestep_tofuburger_tofu" name="Rozmixovat tofu"  />
-			<text id="preparestep_tofuburger_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_tomatosoup_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_tomatosoup_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_tomatosoup_tomato" name="Oloupat rajčata"  />
-			<text id="preparestep_trifle_cookies" name="Zvážit sušenky"  />
-			<text id="preparestep_trifle_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_trifle_strawberry" name="Očistit jahody"  />
-			<text id="preparestep_trifle_sugar" name="Odměřit cukr"  />
-			<text id="preparestep_veganstirfry_carrots" name="Nakrájet mrkev"  />
-			<text id="preparestep_veganstirfry_peas" name="Uvařit hrách"  />
-			<text id="preparestep_veganstirfry_rice" name="Zvážit rýži"  />
-			<text id="preparestep_veganstirfry_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_vegetablesoup_onion" name="Nasekat cibuli"  />
-			<text id="preparestep_vegetablesoup_potato" name="Oloupat brambory"  />
-			<text id="preparestep_vegetablesoup_tomato" name="Nakrájet rajčata"  />
-			<text id="preparestep_veggiecurry_ballpepper" name="Nakrájet papriky"  />
-			<text id="preparestep_veggiecurry_coconut" name="Rozlousknout kokosový ořech"  />
-			<text id="preparestep_veggiecurry_curryspice" name="Odmeřit kari"  />
-			<text id="preparestep_veggiecurry_eggplant" name="Nakrájet lilek"  />
-			<text id="preparestep_veggiecurry_rice" name="Zvážit rýži"  />
-			<text id="preparestep_veggielasagne_cheese" name="Nastrouhat sýr"  />
-			<text id="preparestep_veggielasagne_eggplant" name="Nakrájet lilek"  />
-			<text id="preparestep_veggielasagne_pasta" name="Uvařit těstoviny"  />
-			<text id="preparestep_veggielasagne_tomato" name="Rozmačkat rajčata"  />
-			<text id="preparestep_whitechoccheesecake_cookies" name="Rozdrobit sušenky"  />
-			<text id="preparestep_whitechoccheesecake_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_whitechoccheesecake_milk" name="Ohřát mléko"  />
-			<text id="preparestep_whitechoccheesecake_quark" name="Rozmíchat tvaroh"  />
-			<text id="preparestep_whitechoccheesecake_whitechocolat" name="Zvážit čokoládu"  />
-			<text id="preparestep_whitechocmousse_cream" name="Šlehat smetanu"  />
-			<text id="preparestep_whitechocmousse_eggs" name="Oddělit žloutek od bílku"  />
-			<text id="preparestep_whitechocmousse_whitechocolat" name="Rozpustit čokoládu"  />
+			<text id="preparestep_bananasplit_banana" name="oloupat banány"  />
+			<text id="preparestep_bananasplit_chocolate" name="nasekat čokoládu"  />
+			<text id="preparestep_bananasplit_cream" name="šlehat smetanu"  />
+			<text id="preparestep_bananasplit_milk" name="odměřit mléko"  />
+			<text id="preparestep_bananasplit_sugar" name="zvážit cukr"  />
+			<text id="preparestep_blackforestcherrycake_chocolate" name="nastrouhat čokoládu"  />
+			<text id="preparestep_blackforestcherrycake_cocktailcherry" name="očistit třešně"  />
+			<text id="preparestep_blackforestcherrycake_cream" name="šlehat smetanu"  />
+			<text id="preparestep_blackforestcherrycake_flour" name="prosít mouku"  />
+			<text id="preparestep_cheeseburger_cheese" name="nakrájet sýr"  />
+			<text id="preparestep_cheeseburger_flour" name="prosít mouku"  />
+			<text id="preparestep_cheeseburger_mincemeat" name="okořenit mleté maso"  />
+			<text id="preparestep_cheeseburger_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_cheesedish_cheese" name="rozkrojit sýr"  />
+			<text id="preparestep_cheesefondue_cheese" name="rozpustit sýr"  />
+			<text id="preparestep_cheesefondue_flour" name="prosít mouku"  />
+			<text id="preparestep_cheesefondue_garlic" name="rozetřet česnek"  />
+			<text id="preparestep_cherriecake_cherries" name="uvařit třešně"  />
+			<text id="preparestep_cherriecake_cream" name="šlehat smetanu"  />
+			<text id="preparestep_cherriecake_flour" name="prosít mouku"  />
+			<text id="preparestep_cherriecake_sugar" name="zvážit cukr"  />
+			<text id="preparestep_cherrycompote_cherries" name="odpeckovat třešně"  />
+			<text id="preparestep_cherrycompote_sugar" name="zkaramelizovat cukr"  />
+			<text id="preparestep_chickenburger_chicken" name="porcovat kuře"  />
+			<text id="preparestep_chickenburger_cucumber" name="nakrájet okurku"  />
+			<text id="preparestep_chickenburger_flour" name="prosít mouku"  />
+			<text id="preparestep_chickenburger_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_chickensalad_chicken" name="připravit kuře"  />
+			<text id="preparestep_chickensalad_lettuce" name="umýt salát"  />
+			<text id="preparestep_chickensalad_onion" name="nasekat cibuli"  />
+			<text id="preparestep_chickensalad_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_chickensoup_bacon" name="krájet slaninu"  />
+			<text id="preparestep_chickensoup_chicken" name="porcovat kuře"  />
+			<text id="preparestep_chickensoup_onion" name="nasekat cibuli"  />
+			<text id="preparestep_chickensoup_pasta" name="odvážit nudle"  />
+			<text id="preparestep_chiliconcarne_bacon" name="nakrájet slaninu"  />
+			<text id="preparestep_chiliconcarne_beans" name="namočit fazole"  />
+			<text id="preparestep_chiliconcarne_mincemeat" name="okořenit mleté maso"  />
+			<text id="preparestep_chiliconcarne_onion" name="nasekat cibuli"  />
+			<text id="preparestep_chiliconcarne_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_chocmousse_chocolate" name="rozpustit čokoládu"  />
+			<text id="preparestep_chocmousse_cream" name="šlehat smetanu"  />
+			<text id="preparestep_chocmousse_eggs" name="oddělit žloutek od bílku"  />
+			<text id="preparestep_chocolatecake_chocolate" name="rozpustit čokoládu"  />
+			<text id="preparestep_chocolatecake_cream" name="šlehat smetanu"  />
+			<text id="preparestep_chocolatecake_eggs" name="oddělit žloutek od bílku"  />
+			<text id="preparestep_chocolatecake_flour" name="prosít mouku"  />
+			<text id="preparestep_chocolatecheesecake_chocolate" name="nasekat čokoládu"  />
+			<text id="preparestep_chocolatecheesecake_cookies" name="rozdrobit sušenky"  />
+			<text id="preparestep_chocolatecheesecake_milk" name="odměřit mléko"  />
+			<text id="preparestep_chocolatecheesecake_quark" name="rozmíchat tvaroh"  />
+			<text id="preparestep_chocolatefondue_chocolate" name="ochutnat čokoládu"  />
+			<text id="preparestep_chocolatefondue_cream" name="odměřit smetanu"  />
+			<text id="preparestep_chocolatefondue_strawberry" name="očistit jahody"  />
+			<text id="preparestep_christmasturkey_turkeymix" name="připravit krocana"  />
+			<text id="preparestep_christmasturkey_vegiemix" name="rozmrazit zeleninu"  />
+			<text id="preparestep_cookieplate_butter" name="rozpustit máslo"  />
+			<text id="preparestep_cookieplate_chocolate" name="nasekat čokoládu"  />
+			<text id="preparestep_cookieplate_flour" name="prosít mouku"  />
+			<text id="preparestep_cookieplate_sugar" name="zkaramelizovat cukr"  />
+			<text id="preparestep_cornonthecob_butter" name="nakrájet máslo na plátky"  />
+			<text id="preparestep_cornonthecob_lettuce" name="umýt salát"  />
+			<text id="preparestep_cornonthecob_sweetcorn" name="očistit kukuřici"  />
+			<text id="preparestep_curry_ballpepper" name="nakrájet papriku"  />
+			<text id="preparestep_curry_coconut" name="rozlousknout kokosový ořech"  />
+			<text id="preparestep_curry_curryspice" name="odměřit kari"  />
+			<text id="preparestep_curry_meat" name="nakrájet maso"  />
+			<text id="preparestep_curry_peas" name="uvařit hrách"  />
+			<text id="preparestep_duckalorange_butter" name="rozpustit máslo"  />
+			<text id="preparestep_duckalorange_duck" name="připravit kachnu"  />
+			<text id="preparestep_duckalorange_onion" name="nasekat cibuli"  />
+			<text id="preparestep_duckalorange_orange" name="oloupat pomeranče"  />
+			<text id="preparestep_easterdish_chocolate" name="ochutnat čokoládu"  />
+			<text id="preparestep_easterdish_eggs" name="spočítat vejce"  />
+			<text id="preparestep_englishbreakfast_beans" name="uvařit fazole"  />
+			<text id="preparestep_englishbreakfast_eggs" name="rozbít vajíčka"  />
+			<text id="preparestep_englishbreakfast_flour" name="prosít mouku"  />
+			<text id="preparestep_englishbreakfast_sausages" name="spočítat párky"  />
+			<text id="preparestep_fishandchips_fish" name="připravit rybu"  />
+			<text id="preparestep_fishandchips_flour" name="prosít mouku"  />
+			<text id="preparestep_fishandchips_oil" name="rozpálit olej"  />
+			<text id="preparestep_fishandchips_peas" name="uvařit hrách"  />
+			<text id="preparestep_fishandchips_potato" name="oloupat brambory"  />
+			<text id="preparestep_friedpotatoes_bacon" name="opéct slaninu"  />
+			<text id="preparestep_friedpotatoes_onion" name="nasekat cibuli"  />
+			<text id="preparestep_friedpotatoes_potato" name="oloupat brambory"  />
+			<text id="preparestep_fruitpudding_bakingmix" name="namíchat směs"  />
+			<text id="preparestep_fruitpudding_spicemix" name="odvážit koření"  />
+			<text id="preparestep_fruitsalad_apple" name="oloupat jablka"  />
+			<text id="preparestep_fruitsalad_banana" name="oloupat babány"  />
+			<text id="preparestep_fruitsalad_cherries" name="odpeckovat třešně"  />
+			<text id="preparestep_fruitsalad_orange" name="oloupat pomeranče"  />
+			<text id="preparestep_greensalad_lettuce" name="umýt salát"  />
+			<text id="preparestep_greensalad_onion" name="nasekat cibuli"  />
+			<text id="preparestep_greensalad_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_gumbo_curryspice" name="opéct kari"  />
+			<text id="preparestep_gumbo_fish" name="nakrájet rybu"  />
+			<text id="preparestep_gumbo_onion" name="nasekat cibuli"  />
+			<text id="preparestep_gumbo_rice" name="uvařit rýži"  />
+			<text id="preparestep_hamburger_flour" name="prosít mouku"  />
+			<text id="preparestep_hamburger_mincemeat" name="okořenit mleté maso"  />
+			<text id="preparestep_hamburger_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_hotcherrywaffles_cherries" name="odpeckovat třešně"  />
+			<text id="preparestep_hotcherrywaffles_cream" name="šlehat smetanu"  />
+			<text id="preparestep_hotcherrywaffles_eggs" name="oddělit žloutek od bílku"  />
+			<text id="preparestep_hotcherrywaffles_flour" name="prosít mouku"  />
+			<text id="preparestep_hotcherrywaffles_milk" name="ohřát mléko"  />
+			<text id="preparestep_jamspongepudding_flour" name="prosít mouku"  />
+			<text id="preparestep_jamspongepudding_milk" name="ohřát mléko"  />
+			<text id="preparestep_jamspongepudding_strawberry" name="očistit jahody"  />
+			<text id="preparestep_jamspongepudding_sugar" name="zkaramelizovat cukr"  />
+			<text id="preparestep_lasagne_cheese" name="nastrouhat sýr"  />
+			<text id="preparestep_lasagne_mincemeat" name="okořenit mleté maso"  />
+			<text id="preparestep_lasagne_pasta" name="uvařit nudle"  />
+			<text id="preparestep_lasagne_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_macncheese_cheese" name="nastrouhat sýr"  />
+			<text id="preparestep_macncheese_cream" name="odměřit smetanu"  />
+			<text id="preparestep_macncheese_pasta" name="uvařit nudle"  />
+			<text id="preparestep_maplepancakes_eggs" name="oddělit žloutek od bílku"  />
+			<text id="preparestep_maplepancakes_flour" name="prosít mouku"  />
+			<text id="preparestep_maplepancakes_maple" name="zkusit javorový sirup"  />
+			<text id="preparestep_maplepancakes_milk" name="odměřit mléko"  />
+			<text id="preparestep_marblecake_butter" name="rozpustit máslo"  />
+			<text id="preparestep_marblecake_chocolate" name="rozpustit čokoládu"  />
+			<text id="preparestep_marblecake_flour" name="prosít mouku"  />
+			<text id="preparestep_marblecake_sugar" name="zvážit cukr"  />
+			<text id="preparestep_mexicansalad_bacon" name="opéct slaninu"  />
+			<text id="preparestep_mexicansalad_beans" name="namočit fazole"  />
+			<text id="preparestep_mexicansalad_onion" name="opéct cibuli"  />
+			<text id="preparestep_mexicansalad_sweetcorn" name="uvařit kukuřici"  />
+			<text id="preparestep_minestrone_eggplant" name="nakrájet lilek"  />
+			<text id="preparestep_minestrone_pasta" name="uvařit nudle"  />
+			<text id="preparestep_minestrone_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_mixedsalad_lettuce" name="umýt salát"  />
+			<text id="preparestep_mixedsalad_peas" name="uvařit hrách"  />
+			<text id="preparestep_mixedsalad_sweetcorn" name="uvařit kukuřici"  />
+			<text id="preparestep_mixedsalad_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_nasigoreng_chicken" name="naporcovat kuře"  />
+			<text id="preparestep_nasigoreng_eggs" name="uvařit vajíčka"  />
+			<text id="preparestep_nasigoreng_onion" name="nasekat cibuli"  />
+			<text id="preparestep_nasigoreng_pinapple" name="nakrájet ananas"  />
+			<text id="preparestep_nasigoreng_rice" name="uvařit rýži"  />
+			<text id="preparestep_newyorkcheesecake_cookies" name="rozdrobit sušenky"  />
+			<text id="preparestep_newyorkcheesecake_cream" name="šlehat smetanu"  />
+			<text id="preparestep_newyorkcheesecake_quark" name="míchat tvaroh"  />
+			<text id="preparestep_newyorkcheesecake_sugar" name="odvážit cukr"  />
+			<text id="preparestep_noodlesalad_eggs" name="oddělit žloutek od bílku"  />
+			<text id="preparestep_noodlesalad_oil" name="vyšlehat olej"  />
+			<text id="preparestep_noodlesalad_pasta" name="uvařit nudle"  />
+			<text id="preparestep_noodlesalad_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_omelette_eggs" name="spočítat vejce"  />
+			<text id="preparestep_onionsoup_cheese" name="nastrouhat sýr"  />
+			<text id="preparestep_onionsoup_garlic" name="rozetřet česnek"  />
+			<text id="preparestep_onionsoup_onion" name="nasekat cibuli"  />
+			<text id="preparestep_peasoup_bacon" name="opéct slaninu"  />
+			<text id="preparestep_peasoup_garlic" name="rozetřet česnek"  />
+			<text id="preparestep_peasoup_onion" name="nasekat cibuli"  />
+			<text id="preparestep_peasoup_peas" name="očistit hrách"  />
+			<text id="preparestep_pizzahawaii_bacon" name="nakrájet slaninu"  />
+			<text id="preparestep_pizzahawaii_cheese" name="nastrouhat sýr"  />
+			<text id="preparestep_pizzahawaii_flour" name="prosít mouku"  />
+			<text id="preparestep_pizzahawaii_pinapple" name="nakrájet ananas"  />
+			<text id="preparestep_pizzahawaii_tomato" name="rozmačkat rajčata"  />
+			<text id="preparestep_pizzatonno_cheese" name="nastrouhat sýr"  />
+			<text id="preparestep_pizzatonno_fish" name="nakrájet rybu"  />
+			<text id="preparestep_pizzatonno_flour" name="prosít mouku"  />
+			<text id="preparestep_pizzatonno_onion" name="nakrájet cibuli"  />
+			<text id="preparestep_pizzatonno_tomato" name="rozmačkat rajčata"  />
+			<text id="preparestep_pizza_cheese" name="nastrouhat sýr"  />
+			<text id="preparestep_pizza_flour" name="prosít mouku"  />
+			<text id="preparestep_pizza_tomato" name="rozmačkat rajčata"  />
+			<text id="preparestep_porkroastwithcrackling_carrots" name="oloupat mrkev"  />
+			<text id="preparestep_porkroastwithcrackling_garlic" name="rozetřet česnek"  />
+			<text id="preparestep_porkroastwithcrackling_meat" name="nakrájet maso"  />
+			<text id="preparestep_porkroastwithcrackling_onion" name="nasekat cibuli"  />
+			<text id="preparestep_potatosalad_cucumber" name="rozkrojit okurky"  />
+			<text id="preparestep_potatosalad_oil" name="vyšlehat olej"  />
+			<text id="preparestep_potatosalad_potato" name="oloupat brambory"  />
+			<text id="preparestep_redberrycompote_cherries" name="očistit třešně"  />
+			<text id="preparestep_redberrycompote_rhubarb" name="očistit rebarboru"  />
+			<text id="preparestep_redberrycompote_strawberry" name="očistit jahody"  />
+			<text id="preparestep_redberrycompote_sugar" name="zkaramelizovat cukr"  />
+			<text id="preparestep_ricepudding_apple" name="oloupat jablka"  />
+			<text id="preparestep_ricepudding_cream" name="šlehat smetanu"  />
+			<text id="preparestep_ricepudding_milk" name="odměřit mléko"  />
+			<text id="preparestep_ricepudding_rice" name="zvážit rýži"  />
+			<text id="preparestep_roastchicken_butter" name="rozpustit máslo"  />
+			<text id="preparestep_roastchicken_chicken" name="připravit kuře"  />
+			<text id="preparestep_roastchicken_onion" name="nasekat cibuli"  />
+			<text id="preparestep_sandwich_bacon" name="krájet slaninu"  />
+			<text id="preparestep_sandwich_butter" name="zvážit máslo"  />
+			<text id="preparestep_sandwich_cheese" name="rozkrojit sýr"  />
+			<text id="preparestep_sandwich_flour" name="prosít mouku"  />
+			<text id="preparestep_sandwich_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_scouse_beetroot" name="nakrájet červenou řepu"  />
+			<text id="preparestep_scouse_cucumber" name="nakládat okurky"  />
+			<text id="preparestep_scouse_eggs" name="opéct vájíčka"  />
+			<text id="preparestep_scouse_meat" name="nakrájet maso"  />
+			<text id="preparestep_spagetti_mincemeat" name="okořenit mleté maso"  />
+			<text id="preparestep_spagetti_pasta" name="uvařit špagety"  />
+			<text id="preparestep_spagetti_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_spareribs_meat" name="nakrájet maso"  />
+			<text id="preparestep_spareribs_oil" name="odměřit olej"  />
+			<text id="preparestep_spareribs_onion" name="nasekat cibuli"  />
+			<text id="preparestep_spareribs_tomato" name="rozmačkat rajčata"  />
+			<text id="preparestep_steakkidneypie_flour" name="prosít mouku"  />
+			<text id="preparestep_steakkidneypie_kidney" name="nakrájet ledviny"  />
+			<text id="preparestep_steakkidneypie_meat" name="nakrájet maso"  />
+			<text id="preparestep_steakkidneypie_onion" name="nasekat cibuli"  />
+			<text id="preparestep_steak_butter" name="nakrájet máslo na plátky"  />
+			<text id="preparestep_steak_lettuce" name="umýt salát"  />
+			<text id="preparestep_steak_meat" name="nakrájet maso"  />
+			<text id="preparestep_steak_potato" name="oloupat brambory"  />
+			<text id="preparestep_steak_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_stewedrhubarb_rhubarb" name="nakrájet rebarboru"  />
+			<text id="preparestep_stewedrhubarb_sugar" name="zkaramelizovat cukr"  />
+			<text id="preparestep_stew_meat" name="nakrájet maso"  />
+			<text id="preparestep_stew_oil" name="rozpálit olej"  />
+			<text id="preparestep_stew_onion" name="nasekat cibuli"  />
+			<text id="preparestep_strawberrycake_cream" name="šlehat smetanu"  />
+			<text id="preparestep_strawberrycake_flour" name="prosít mouku"  />
+			<text id="preparestep_strawberrycake_strawberry" name="očistit jahody"  />
+			<text id="preparestep_strawberrymousse_cream" name="šlehat smetanu"  />
+			<text id="preparestep_strawberrymousse_eggs" name="oddělit žloutek od bílku"  />
+			<text id="preparestep_strawberrymousse_strawberry" name="očistit jahody"  />
+			<text id="preparestep_strawberrymousse_sugar" name="zvážit cukr"  />
+			<text id="preparestep_stuffedpeppers_ballpepper" name="vydlabat papriku"  />
+			<text id="preparestep_stuffedpeppers_eggs" name="rozbít vejce"  />
+			<text id="preparestep_stuffedpeppers_rice" name="uvařit rýži"  />
+			<text id="preparestep_sundayfeast_carrots" name="oloupat mrkev"  />
+			<text id="preparestep_sundayfeast_meat" name="nakrájet maso"  />
+			<text id="preparestep_sundayfeast_peas" name="uvařit hrách"  />
+			<text id="preparestep_sundayfeast_potato" name="oloupat brambory"  />
+			<text id="preparestep_sushi_cucumber" name="nakrájet okurku"  />
+			<text id="preparestep_sushi_fish" name="nakrájet rybu"  />
+			<text id="preparestep_sushi_rice" name="uvařit rýži"  />
+			<text id="preparestep_toadinhole_flour" name="prosít mouku"  />
+			<text id="preparestep_toadinhole_onion" name="nasekat cibuli"  />
+			<text id="preparestep_toadinhole_sausages" name="spočítat párky"  />
+			<text id="preparestep_toast_cheese" name="nastrouhat sýr"  />
+			<text id="preparestep_toast_flour" name="prosít mouku"  />
+			<text id="preparestep_toast_pinapple" name="nakrájet ananas"  />
+			<text id="preparestep_tofuburger_flour" name="prosít mouku"  />
+			<text id="preparestep_tofuburger_lettuce" name="umýt salát"  />
+			<text id="preparestep_tofuburger_tofu" name="rozmixovat tofu"  />
+			<text id="preparestep_tofuburger_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_tomatosoup_cream" name="šlehat smetanu"  />
+			<text id="preparestep_tomatosoup_onion" name="nasekat cibuli"  />
+			<text id="preparestep_tomatosoup_tomato" name="oloupat rajčata"  />
+			<text id="preparestep_trifle_cookies" name="zvážit sušenky"  />
+			<text id="preparestep_trifle_cream" name="šlehat smetanu"  />
+			<text id="preparestep_trifle_strawberry" name="očistit jahody"  />
+			<text id="preparestep_trifle_sugar" name="odměřit cukr"  />
+			<text id="preparestep_veganstirfry_carrots" name="nakrájet mrkev"  />
+			<text id="preparestep_veganstirfry_peas" name="uvařit hrách"  />
+			<text id="preparestep_veganstirfry_rice" name="zvážit rýži"  />
+			<text id="preparestep_veganstirfry_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_vegetablesoup_onion" name="nasekat cibuli"  />
+			<text id="preparestep_vegetablesoup_potato" name="oloupat brambory"  />
+			<text id="preparestep_vegetablesoup_tomato" name="nakrájet rajčata"  />
+			<text id="preparestep_veggiecurry_ballpepper" name="nakrájet papriky"  />
+			<text id="preparestep_veggiecurry_coconut" name="rozlousknout kokosový ořech"  />
+			<text id="preparestep_veggiecurry_curryspice" name="odmeřit kari"  />
+			<text id="preparestep_veggiecurry_eggplant" name="nakrájet lilek"  />
+			<text id="preparestep_veggiecurry_rice" name="zvážit rýži"  />
+			<text id="preparestep_veggielasagne_cheese" name="nastrouhat sýr"  />
+			<text id="preparestep_veggielasagne_eggplant" name="nakrájet lilek"  />
+			<text id="preparestep_veggielasagne_pasta" name="uvařit těstoviny"  />
+			<text id="preparestep_veggielasagne_tomato" name="rozmačkat rajčata"  />
+			<text id="preparestep_whitechoccheesecake_cookies" name="rozdrobit sušenky"  />
+			<text id="preparestep_whitechoccheesecake_cream" name="šlehat smetanu"  />
+			<text id="preparestep_whitechoccheesecake_milk" name="ohřát mléko"  />
+			<text id="preparestep_whitechoccheesecake_quark" name="rozmíchat tvaroh"  />
+			<text id="preparestep_whitechoccheesecake_whitechocolat" name="zvážit čokoládu"  />
+			<text id="preparestep_whitechocmousse_cream" name="šlehat smetanu"  />
+			<text id="preparestep_whitechocmousse_eggs" name="oddělit žloutek od bílku"  />
+			<text id="preparestep_whitechocmousse_whitechocolat" name="rozpustit čokoládu"  />
 		</preparestep>
 		<preparestep_fancy>
-			<text id="preparestep_bananasplit_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_blackforestcherrycake_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_cheeseburger_chili" name="Krájet chilli"  />
-			<text id="preparestep_cheesedish_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_cheesefondue_chili" name="Krájet chilli"  />
-			<text id="preparestep_cherriecake_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_cherrycompote_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_chickenburger_chili" name="Nasekat chilli"  />
-			<text id="preparestep_chickensalad_chili" name="Krájet chilli"  />
-			<text id="preparestep_chickensoup_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_chiliconcarne_chili" name="Nasekat chilli"  />
-			<text id="preparestep_chocmousse_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_chocolatecake_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_chocolatecheesecake_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_chocolatefondue_cinnamon" name="Posypat skořicí"  />
-			<text id="preparestep_christmasturkey_rosemary" name="Nasekat rozmarýn"  />
-			<text id="preparestep_cookieplate_cinnamon" name="Posypat skořicí"  />
-			<text id="preparestep_cornonthecob_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_curry_coriander" name="Nasekat koriandr"  />
-			<text id="preparestep_duckalorange_cinnamon" name="Posypat skořicí"  />
-			<text id="preparestep_easterdish_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_englishbreakfast_chili" name="Krájet chilli"  />
-			<text id="preparestep_fishandchips_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_friedpotatoes_rosemary" name="Nasekat rozmarýn"  />
-			<text id="preparestep_fruitpudding_cinnamon" name="Posypat skořicí"  />
-			<text id="preparestep_fruitsalad_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_gardensalad_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_greensalad_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_gumbo_chili" name="Krájet chilli"  />
-			<text id="preparestep_hamburger_chili" name="Krájet chilli"  />
-			<text id="preparestep_hotcherrywaffles_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_jamspongepudding_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_lasagne_basil" name="Otrhat listy bazalky"  />
-			<text id="preparestep_macncheese_nutmeg" name="Nastrouhat muškátový oříšek"  />
-			<text id="preparestep_maplepancakes_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_marblecake_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_mexicansalad_chili" name="Krájet chilli"  />
-			<text id="preparestep_minestrone_basil" name="Otrhat listy bazalky"  />
-			<text id="preparestep_mixedsalad_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_nasigoreng_chili" name="Krájet chilli"  />
-			<text id="preparestep_newyorkcheesecake_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_noodlesalad_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_omelette_chili" name="Nasekat chilli"  />
-			<text id="preparestep_onionsoup_chili" name="Krájet chilli"  />
-			<text id="preparestep_peasoup_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_pizzahawaii_chili" name="Nasekat chilli"  />
-			<text id="preparestep_pizzatonno_horseradish" name="Nastrouhat křen"  />
-			<text id="preparestep_pizza_chili" name="Krájet chili"  />
-			<text id="preparestep_porkroastwithcrackling_rosemary" name="Nasekat rozmarýn"  />
-			<text id="preparestep_potatosalad_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_redberrycompote_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_ricepudding_cinnamon" name="Posypat skořicí"  />
-			<text id="preparestep_roastchicken_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_sandwich_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_scouse_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_spagetti_basil" name="Otrhat listy bazalky"  />
-			<text id="preparestep_spareribs_chili" name="Krájet chilli"  />
-			<text id="preparestep_steakkidneypie_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_steak_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_stewedrhubarb_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_stew_chili" name="Nakrájet chilli"  />
-			<text id="preparestep_strawberrycake_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_strawberrymousse_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_stuffedpeppers_parsley" name="Nasekat petrželku"  />
-			<text id="preparestep_sundayfeast_rosemary" name="Nasekat rozmarýn"  />
-			<text id="preparestep_sushi_horseradish" name="Nastrouhat křen"  />
-			<text id="preparestep_toadinhole_rosemary" name="Nasekat rozmarýn"  />
-			<text id="preparestep_toast_chili" name="Krájet chilli"  />
-			<text id="preparestep_tofuburger_chili" name="Nasekat chilli"  />
-			<text id="preparestep_tomatosoup_basil" name="Otrhat listy bazalky"  />
-			<text id="preparestep_trifle_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_veganstirfry_chili" name="Krájet chilli"  />
-			<text id="preparestep_vegetablesoup_basil" name="Otrhat listy bazalky"  />
-			<text id="preparestep_veggiecurry_coriander" name="Nasekat koriandr"  />
-			<text id="preparestep_veggielasagne_basil" name="Otrhat listy bazalky"  />
-			<text id="preparestep_whitechoccheesecake_vanilla" name="Vyškrábat vanilku"  />
-			<text id="preparestep_whitechocmousse_vanilla" name="Vyškrábat vanilku"  />
+			<text id="preparestep_bananasplit_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_blackforestcherrycake_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_cheeseburger_chili" name="krájet chilli"  />
+			<text id="preparestep_cheesedish_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_cheesefondue_chili" name="krájet chilli"  />
+			<text id="preparestep_cherriecake_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_cherrycompote_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_chickenburger_chili" name="nasekat chilli"  />
+			<text id="preparestep_chickensalad_chili" name="krájet chilli"  />
+			<text id="preparestep_chickensoup_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_chiliconcarne_chili" name="nasekat chilli"  />
+			<text id="preparestep_chocmousse_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_chocolatecake_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_chocolatecheesecake_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_chocolatefondue_cinnamon" name="posypat skořicí"  />
+			<text id="preparestep_christmasturkey_rosemary" name="nasekat rozmarýn"  />
+			<text id="preparestep_cookieplate_cinnamon" name="posypat skořicí"  />
+			<text id="preparestep_cornonthecob_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_curry_coriander" name="nasekat koriandr"  />
+			<text id="preparestep_duckalorange_cinnamon" name="posypat skořicí"  />
+			<text id="preparestep_easterdish_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_englishbreakfast_chili" name="krájet chilli"  />
+			<text id="preparestep_fishandchips_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_friedpotatoes_rosemary" name="nasekat rozmarýn"  />
+			<text id="preparestep_fruitpudding_cinnamon" name="posypat skořicí"  />
+			<text id="preparestep_fruitsalad_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_gardensalad_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_greensalad_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_gumbo_chili" name="krájet chilli"  />
+			<text id="preparestep_hamburger_chili" name="krájet chilli"  />
+			<text id="preparestep_hotcherrywaffles_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_jamspongepudding_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_lasagne_basil" name="otrhat listy bazalky"  />
+			<text id="preparestep_macncheese_nutmeg" name="nastrouhat muškátový oříšek"  />
+			<text id="preparestep_maplepancakes_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_marblecake_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_mexicansalad_chili" name="krájet chilli"  />
+			<text id="preparestep_minestrone_basil" name="otrhat listy bazalky"  />
+			<text id="preparestep_mixedsalad_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_nasigoreng_chili" name="krájet chilli"  />
+			<text id="preparestep_newyorkcheesecake_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_noodlesalad_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_omelette_chili" name="nasekat chilli"  />
+			<text id="preparestep_onionsoup_chili" name="krájet chilli"  />
+			<text id="preparestep_peasoup_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_pizzahawaii_chili" name="nasekat chilli"  />
+			<text id="preparestep_pizzatonno_horseradish" name="nastrouhat křen"  />
+			<text id="preparestep_pizza_chili" name="krájet chili"  />
+			<text id="preparestep_porkroastwithcrackling_rosemary" name="nasekat rozmarýn"  />
+			<text id="preparestep_potatosalad_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_redberrycompote_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_ricepudding_cinnamon" name="posypat skořicí"  />
+			<text id="preparestep_roastchicken_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_sandwich_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_scouse_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_spagetti_basil" name="otrhat listy bazalky"  />
+			<text id="preparestep_spareribs_chili" name="krájet chilli"  />
+			<text id="preparestep_steakkidneypie_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_steak_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_stewedrhubarb_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_stew_chili" name="nakrájet chilli"  />
+			<text id="preparestep_strawberrycake_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_strawberrymousse_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_stuffedpeppers_parsley" name="nasekat petrželku"  />
+			<text id="preparestep_sundayfeast_rosemary" name="nasekat rozmarýn"  />
+			<text id="preparestep_sushi_horseradish" name="nastrouhat křen"  />
+			<text id="preparestep_toadinhole_rosemary" name="nasekat rozmarýn"  />
+			<text id="preparestep_toast_chili" name="krájet chilli"  />
+			<text id="preparestep_tofuburger_chili" name="nasekat chilli"  />
+			<text id="preparestep_tomatosoup_basil" name="otrhat listy bazalky"  />
+			<text id="preparestep_trifle_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_veganstirfry_chili" name="krájet chilli"  />
+			<text id="preparestep_vegetablesoup_basil" name="otrhat listy bazalky"  />
+			<text id="preparestep_veggiecurry_coriander" name="nasekat koriandr"  />
+			<text id="preparestep_veggielasagne_basil" name="otrhat listy bazalky"  />
+			<text id="preparestep_whitechoccheesecake_vanilla" name="vyškrábat vanilku"  />
+			<text id="preparestep_whitechocmousse_vanilla" name="vyškrábat vanilku"  />
 		</preparestep_fancy>
 		<recipe>
 			<text id="recipe_bananasplit" name="Banánový split"  />
